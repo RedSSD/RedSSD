@@ -4,7 +4,7 @@
 
 > "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics."
 
-### Python Software Engineer | AWS Enthusiast
+### 🐍 Python Software Engineer | AWS Enthusiast
 
 ### 👨‍💻 Applied Computer Science Student
 
