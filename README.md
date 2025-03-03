@@ -22,7 +22,7 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [bemegav@gmail.com](mailto:redssd.dev@gmail.com)
+- 📧 Email: [redssd.dev@gmail.com](mailto:redssd.dev@gmail.com)
 
 ### 🌐 Connect with Me
 
